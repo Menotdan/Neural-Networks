@@ -1,0 +1,4 @@
+{
+    "python.linting.pylintCategorySeverity.convention": "Hint",
+    "python.linting.pylintCategorySeverity.warning": "Hint"
+}
